@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-name="Chicago P.D. S01E01" tvg-logo="http://odenfull.co:2086/images/b7e093a9e1a0bdfa18f91d3f3e3061c9.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S01E01
 http://panel.tured.live:2086/series/Hugo99/Hugo99/210111.mkv
 #EXTINF:-1 tvg-name="Chicago P.D. S01E02" tvg-logo="http://odenfull.co:2086/images/41404c5a851575caf924a02ecf24bde4.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S01E02
@@ -74,301 +76,339 @@ http://panel.tured.live:2086/series/Hugo99/Hugo99/210146.mkv
 http://panel.tured.live:2086/series/Hugo99/Hugo99/210147.mkv
 #EXTINF:-1 tvg-name="Chicago P.D. S02E23" tvg-logo="http://odenfull.co:2086/images/3e3670c1a7e1e287f7b832dd12b28bcd.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S02E23
 http://panel.tured.live:2086/series/Hugo99/Hugo99/210148.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E01" tvg-logo="http://odenfull.co:2086/images/9b505e500e3234c6debde0c2ea003321.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210149.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E02" tvg-logo="http://odenfull.co:2086/images/72d2fe9be5019c1fb2b8f18e72658b1c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210150.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E03" tvg-logo="http://odenfull.co:2086/images/ae18fb633c81e614f60938aee1c8b1a6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210151.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E04" tvg-logo="http://odenfull.co:2086/images/f5e408f14199bdce02da18de0160b25f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210152.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E05" tvg-logo="http://odenfull.co:2086/images/7ff7a45869e0b14ff2a4e1e2bf49b602.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210153.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E06" tvg-logo="http://odenfull.co:2086/images/62e20bac7dd0a2e5f9dbaea9b40caf97.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210154.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E07" tvg-logo="http://odenfull.co:2086/images/70d12f5f5f9b1f56744339f65d392412.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210155.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E08" tvg-logo="http://odenfull.co:2086/images/08a1f71308d29511d0df9d6022f5f191.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210156.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E09" tvg-logo="http://odenfull.co:2086/images/cc903174593ac0950fd5971b857651a2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210157.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E10" tvg-logo="http://odenfull.co:2086/images/f9e469193679129e656b3197608059bf.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210158.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E11" tvg-logo="http://odenfull.co:2086/images/3e5dc4f9d8f033383412df91d6fc9c1c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210159.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E12" tvg-logo="http://odenfull.co:2086/images/52a06c72f379d6c6a0d8b45d38eb0195.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210160.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E13" tvg-logo="http://odenfull.co:2086/images/a8140501791e2aa8420c6ea144a433bf.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210161.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E14" tvg-logo="http://odenfull.co:2086/images/251e640ee996beb5c30298b77cfc7279.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210162.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E15" tvg-logo="http://odenfull.co:2086/images/992b215662ba49171c4f252b5f66c90c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210163.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E16" tvg-logo="http://odenfull.co:2086/images/c47d150608605a539ee92d809a5d4e4d.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210164.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E17" tvg-logo="http://odenfull.co:2086/images/5342a0b00589c5db294dc589d47b89e5.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210165.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E18" tvg-logo="http://odenfull.co:2086/images/61be5c3cb8732c9fa693fac8e5fceb26.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210166.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E19" tvg-logo="http://odenfull.co:2086/images/ad42333af1749f91e8715bb103bd6d0f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210167.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E20" tvg-logo="http://odenfull.co:2086/images/c4d97549e697a5c2ba4d63929a1ba5fd.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210168.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E21" tvg-logo="http://odenfull.co:2086/images/27e601b22bac4f4f8f13d10de6d9a692.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E21
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210169.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E22" tvg-logo="http://odenfull.co:2086/images/60145b643298b95ce3e80d5cac225825.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E22
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210170.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S03E23" tvg-logo="http://odenfull.co:2086/images/8ff019a12317bea39053ccd35f026f51.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S03E23
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210171.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E01" tvg-logo="http://odenfull.co:2086/images/ba97be06d147ad125b3121e1331e1559.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210172.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E02" tvg-logo="http://odenfull.co:2086/images/739ec7826b89e8a50aac5357f2087a13.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210173.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E03" tvg-logo="http://odenfull.co:2086/images/8b6a18982067c58453de4b8c9eb5f18d.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210174.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E04" tvg-logo="http://odenfull.co:2086/images/518a07610411e6391b92acd789fbedd2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210175.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E05" tvg-logo="http://odenfull.co:2086/images/05b610e6fe335bb2076aad2102c88ed5.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210176.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E06" tvg-logo="http://odenfull.co:2086/images/15287aba4bbe65248992c4fb4d1fe575.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210177.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E07" tvg-logo="http://odenfull.co:2086/images/507b368f2fd28fabda4f7f242849d0ee.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210178.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E08" tvg-logo="http://odenfull.co:2086/images/1ff09ffa2748110a0c0f4c7e5d72a122.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210179.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E09" tvg-logo="http://odenfull.co:2086/images/b6dbf74a1fe6bdbc27c8da6f2fe81d24.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210180.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E10" tvg-logo="http://odenfull.co:2086/images/207bfb384359f04ed82b7e084e2a7613.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210181.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E11" tvg-logo="http://odenfull.co:2086/images/4d52cd3be05cf369c809fff629f28450.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210182.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E12" tvg-logo="http://odenfull.co:2086/images/a1882e67457b6bb061011b052583a466.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210183.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E13" tvg-logo="http://odenfull.co:2086/images/11b4be87baa35236c3f08d395c1d4543.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210184.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E14" tvg-logo="http://odenfull.co:2086/images/1ce3f1dedba34a171e97781f0634bd8b.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210185.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E15" tvg-logo="http://odenfull.co:2086/images/41ac6393b91d520cdf4fed752fa139c2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210186.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E16" tvg-logo="http://odenfull.co:2086/images/41dd551f491048b43bcdcaed6fa87856.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210187.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E17" tvg-logo="http://odenfull.co:2086/images/547313894d798d2b11c54ddd6ee8b3ae.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210188.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E18" tvg-logo="http://odenfull.co:2086/images/1ea959f59e021724cbb4bc8ace4035f5.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210189.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E19" tvg-logo="http://odenfull.co:2086/images/cece2255f450a525437f24c635efe967.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210190.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E20" tvg-logo="http://odenfull.co:2086/images/01afce6e639e7c7986e637c220695337.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210191.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E21" tvg-logo="http://odenfull.co:2086/images/7b7d66e5ce1f8ed25d138dfed8bf7838.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E21
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210192.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E22" tvg-logo="http://odenfull.co:2086/images/45a182e4320c4b03e68996db5e3f7c89.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E22
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210193.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S04E23" tvg-logo="http://odenfull.co:2086/images/3be272f3d7210afbdf60e50576a88d2b.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S04E23
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210194.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E01" tvg-logo="http://odenfull.co:2086/images/b7d9f69dc2b7a775884bbdf9fbfaa252.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210195.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E02" tvg-logo="http://odenfull.co:2086/images/f9c1e6fe9d9572c8c1d00160d3b4dfdc.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210196.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E03" tvg-logo="http://odenfull.co:2086/images/8d8cdabb55a86fafda2d479f938008ff.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210197.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E04" tvg-logo="http://odenfull.co:2086/images/466fbf9659a9babfe101c4d826f03946.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210198.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E05" tvg-logo="http://odenfull.co:2086/images/c84923590a57668a0df38695d5196e56.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210199.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E06" tvg-logo="http://odenfull.co:2086/images/d8b5e04be3eecd681102dff965c39ee8.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210200.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E07" tvg-logo="http://odenfull.co:2086/images/e48c49363766dacbfa28c3ef33414fc6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210201.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E08" tvg-logo="http://odenfull.co:2086/images/cb0a3c890a3c16599366e1ec2adbb937.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210202.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E09" tvg-logo="http://odenfull.co:2086/images/e63f4a6fe6000103a3af849500f8f09b.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210203.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E10" tvg-logo="http://odenfull.co:2086/images/981bbc59098b41082846e33034215d2c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210204.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E11" tvg-logo="http://odenfull.co:2086/images/cf6f061e3050ad2eefd2988323f1c176.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210205.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E12" tvg-logo="http://odenfull.co:2086/images/c893974d1e52f03d6920aa2a512c3d36.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210206.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E13" tvg-logo="http://odenfull.co:2086/images/7c729fe04d833397c8d08aeed84d9186.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210207.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E14" tvg-logo="http://odenfull.co:2086/images/85430ebf00c222903fc372f3d1aae19b.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210208.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E15" tvg-logo="http://odenfull.co:2086/images/245c43fb0e65d434338c9ccc3b475c55.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210209.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E16" tvg-logo="http://odenfull.co:2086/images/bae9616752c6325d5e5669a7917576df.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210210.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E17" tvg-logo="http://odenfull.co:2086/images/438dd40be3d191abfd5d8777a5409fd5.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210211.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E18" tvg-logo="http://odenfull.co:2086/images/53d76566860e2b732c06d38a5fed78fe.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210212.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E19" tvg-logo="http://odenfull.co:2086/images/ccf23025a71447640dfbeb7edd71f84a.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210213.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E20" tvg-logo="http://odenfull.co:2086/images/0a7c9d7ac76a867a418cc5d0e14e95b3.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210214.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E21" tvg-logo="http://odenfull.co:2086/images/1c6be6387dbffecc759ba85fa10873e6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E21
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210215.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S05E22" tvg-logo="http://odenfull.co:2086/images/b159d391febe5beee9e0c3ce7e84bb7c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S05E22
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210216.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E01" tvg-logo="http://odenfull.co:2086/images/9bec75f39894b4971ed1c4c7ef04e218.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210217.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E02" tvg-logo="http://odenfull.co:2086/images/1f714b44fecda3137ae769473d8fc985.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210218.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E03" tvg-logo="http://odenfull.co:2086/images/1373fa8cd74a602b7fe9ef913c39c1f4.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210219.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E04" tvg-logo="http://odenfull.co:2086/images/e338a3724a736c753ccf85c8546391c6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210220.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E05" tvg-logo="http://odenfull.co:2086/images/c9c0468edeca1c53ae9357fc5d8036a2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210221.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E06" tvg-logo="http://odenfull.co:2086/images/01c7afe98d29f777d32ffbe2365a7add.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210222.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E07" tvg-logo="http://odenfull.co:2086/images/3b66b20c0b97487fe0042ef93eebbbf2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210223.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E08" tvg-logo="http://odenfull.co:2086/images/1b496460f1b9361d37d3c70363fef8af.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210224.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E09" tvg-logo="http://odenfull.co:2086/images/d014a8b83c4c80cc49a725269989ecf4.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210225.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E10" tvg-logo="http://odenfull.co:2086/images/6731fbbb1c34ae5d9921906c1c47fabd.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210226.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E11" tvg-logo="http://odenfull.co:2086/images/0b88536f183130a771b441c747892209.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210227.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E12" tvg-logo="http://odenfull.co:2086/images/fe4f196f728681ae275a78e3932675e3.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210228.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E13" tvg-logo="http://odenfull.co:2086/images/d0042c9d7ff67aac7a460060ce69b4bd.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210229.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E14" tvg-logo="http://odenfull.co:2086/images/792e76efb2d71aa7e27803f87dd17b79.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210230.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E15" tvg-logo="http://odenfull.co:2086/images/6e43eec1022c08f74ac3903bf771e1ac.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210231.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E16" tvg-logo="http://odenfull.co:2086/images/61aead98c0f5fac807121e95c02d5ad6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210232.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E17" tvg-logo="http://odenfull.co:2086/images/8202d96323a1bd1c7acb3dc5d0a2fed6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210233.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E18" tvg-logo="http://odenfull.co:2086/images/ff603f9cdc012291c276a52030823e77.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210234.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E19" tvg-logo="http://odenfull.co:2086/images/de3a5fe4d6b8ccb438039de6c6269229.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210235.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E20" tvg-logo="http://odenfull.co:2086/images/597535c70351c9b45e469590c8bb2489.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210236.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E21" tvg-logo="http://odenfull.co:2086/images/2d0fd2ed62e209630953b10138674fdf.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E21
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210237.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S06E22" tvg-logo="http://odenfull.co:2086/images/d781eed40e25c761fea9ead30dc900f1.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S06E22
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210238.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E01" tvg-logo="http://odenfull.co:2086/images/eff0091011f31db3c5174b43a3ffd096.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210239.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E02" tvg-logo="http://odenfull.co:2086/images/a5f37c4986353dc7d05abe644e5397c9.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210240.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E03" tvg-logo="http://odenfull.co:2086/images/164ff786d449c842c9551ffb29541bc9.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210241.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E04" tvg-logo="http://odenfull.co:2086/images/0bf1c77695704ca5cf34d4cb0c498ea0.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210242.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E05" tvg-logo="http://odenfull.co:2086/images/f393db909a8ccc9a1aa5fea97892bf5f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210243.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E06" tvg-logo="http://odenfull.co:2086/images/2106dc4d9b6cad9da958c277e2d8cbf6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210244.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E07" tvg-logo="http://odenfull.co:2086/images/2b27a8d0363bd9e13f8f99bc67cef9c6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210245.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E08" tvg-logo="http://odenfull.co:2086/images/b8c683ca835e2963d898e71a615f19de.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210246.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E09" tvg-logo="http://odenfull.co:2086/images/b8c683ca835e2963d898e71a615f19de.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210247.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E10" tvg-logo="http://odenfull.co:2086/images/5bc54aa5d0ca3abd2352c222e0d9e55a.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210248.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E11" tvg-logo="http://odenfull.co:2086/images/c795bba737be0dd366cd7ebf273e24ab.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210249.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E12" tvg-logo="http://odenfull.co:2086/images/fb67386398aaf0067e162e7ef8e297c1.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210250.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E13" tvg-logo="http://odenfull.co:2086/images/2ef6e9f6f08e3284b7d06e0479ae9e28.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210251.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E14" tvg-logo="http://odenfull.co:2086/images/e6a06136a2b14045355d5b3aa52115c6.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210252.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E15" tvg-logo="http://odenfull.co:2086/images/2c9e3a690c456b480853e31908342220.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210253.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E16" tvg-logo="http://odenfull.co:2086/images/7aedd699046c3bac37b8250e924dad40.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210254.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E17" tvg-logo="http://odenfull.co:2086/images/fffe218516f4e2995f4cb28b04e0c77e.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210255.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E18" tvg-logo="http://odenfull.co:2086/images/b97e61821d5a2e125a78dc4e51e242bf.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210256.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E19" tvg-logo="http://odenfull.co:2086/images/558682a413746b3e9e33a7811b5bad9c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210257.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S07E20" tvg-logo="http://odenfull.co:2086/images/20774b138b636a5b007e1b30ef0dbf0e.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S07E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210258.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E01" tvg-logo="http://odenfull.co:2086/images/3ce7038d35f58593be0c02297c57ae8f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210259.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E02" tvg-logo="http://odenfull.co:2086/images/57fa8ef40a7a5d1a3e653c3b3f681659.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210260.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E03" tvg-logo="http://odenfull.co:2086/images/dee707c3dc696ba9dd741207a626234e.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210261.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E04" tvg-logo="http://odenfull.co:2086/images/41c980ce4365fdb283d5c3f6ec50fc61.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210262.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E05" tvg-logo="http://odenfull.co:2086/images/bff861987418b00a9c2f9890c4faba22.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210263.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E06" tvg-logo="http://odenfull.co:2086/images/1e3910a455feb68f27d96d65ff331be9.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210264.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E07" tvg-logo="http://odenfull.co:2086/images/f0789279c7d0523b30b83db7f2c4794f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210265.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E08" tvg-logo="http://odenfull.co:2086/images/11a3d016e5e854d7d2574ec4afc30638.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210266.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E09" tvg-logo="http://odenfull.co:2086/images/6f4c1b08e8504314d9bb92a4c8e43363.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210267.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E10" tvg-logo="http://odenfull.co:2086/images/2f28dea20d5f0a40d0ebfaa3e6ba9894.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210268.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E11" tvg-logo="http://odenfull.co:2086/images/3cd7c8e9eaf9b6877ed474e947f13d50.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210269.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E12" tvg-logo="http://odenfull.co:2086/images/7e03b4ae1338cfcd0ae4b66cbb6d46f0.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210270.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E13" tvg-logo="http://odenfull.co:2086/images/42db8a575376925993cd064db3198f56.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210271.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E14" tvg-logo="http://odenfull.co:2086/images/0b31832a4ba3b8ef2ac3fa0f905aa090.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210272.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E15" tvg-logo="http://odenfull.co:2086/images/393046b4d21c8847fe91197fa7f2498e.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210273.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S08E16" tvg-logo="http://odenfull.co:2086/images/68c71f19911cc0a2f1d3f447cf598c1e.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S08E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/210274.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E01" tvg-logo="http://odenfull.co:2086/images/a6b0474fb8d74f9f893ec048113c3869.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E01
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214217.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E02" tvg-logo="http://odenfull.co:2086/images/95b4f84e4f0b41ae109e5f73b6ff0165.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E02
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214218.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E03" tvg-logo="http://odenfull.co:2086/images/af8c7bd9297e9bf6dca599e2f317cc76.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E03
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214219.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E04" tvg-logo="http://odenfull.co:2086/images/2f1d312037eb3a8636795f15a5220b49.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E04
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214220.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E05" tvg-logo="http://odenfull.co:2086/images/55f9ce78abaa6d55a923e920c4133815.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E05
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214221.mkv
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Chicago P.D. S09E06" tvg-logo="http://odenfull.co:2086/images/6dc782c9b7151389b75463039b725804.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E06
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214222.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E07" tvg-logo="http://odenfull.co:2086/images/d3a1b32ab9222e4c823a6edbcd0ce4ca.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E07
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214223.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E08" tvg-logo="http://odenfull.co:2086/images/cc7a6f242713c5aa403433c2afe6d80c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E08
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214224.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E09" tvg-logo="http://odenfull.co:2086/images/ebbb2809f940cae39fab816c4900a50d.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E09
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214225.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E10" tvg-logo="http://odenfull.co:2086/images/128b7c1d6427225ff9f4e89ff8ae7b93.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E10
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214226.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E11" tvg-logo="http://odenfull.co:2086/images/8d2a061c0909c96cb6ef640b1f9eea8d.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E11
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214227.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E12" tvg-logo="http://odenfull.co:2086/images/a2a3e2932a2cf98ba03d167ff0ee79ba.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E12
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214228.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E13" tvg-logo="http://odenfull.co:2086/images/7d15c189680c67011e2ade49f1add0d5.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E13
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214229.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E14" tvg-logo="http://odenfull.co:2086/images/e573d8262b532a7164c39c5243b1a40f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E14
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214230.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E15" tvg-logo="http://odenfull.co:2086/images/f40658984ed30c4a41aeaa05f95a254a.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E15
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214231.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E16" tvg-logo="http://odenfull.co:2086/images/520372c80b0027859bdd8b99fa5a81a2.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E16
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214232.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E17" tvg-logo="http://odenfull.co:2086/images/f0525fd48c4e8cf3ea726262a9819182.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E17
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214233.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E18" tvg-logo="http://odenfull.co:2086/images/ce15a50c5bc3429b5c53ca56eacae83f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E18
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214234.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E19" tvg-logo="http://odenfull.co:2086/images/0723a7e7ca5a0a849ebbc4d68e734708.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E19
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214235.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E20" tvg-logo="http://odenfull.co:2086/images/97393b3bec269106207c087cc19b5b31.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E20
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214236.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E21" tvg-logo="http://odenfull.co:2086/images/5180533c7e44c5f379a86559870aaa4f.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E21
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214237.mkv
-#EXTINF:-1 tvg-name="Chicago P.D. S09E22" tvg-logo="http://odenfull.co:2086/images/ba5ba200f28f9703118e1800de801d6c.jpg" group-title="SERIES PRIME VIDEO",Chicago P.D. S09E22
-http://panel.tured.live:2086/series/Hugo99/Hugo99/214238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1yhLTtf92k6q3jSsq2ky4ECU9y.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF2JBQg0qzkU1dZzVMaNdplgkwC.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udiTgJSqFZUBsI8ohvn65sV1IJx.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC2Dyjy91d9KlwDBk39xueu1LCQ.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6Y9Hn1drCsjcyir8NMkl8f4dcR.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOomjrFjcEzTi0e6VyNXQ8MMx4P.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlXentglnLCeH1W8g60YQuxAKfN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8EE9iCeBvFMLJMJC6yvaRpTqQG.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reFpwXrBtQLwMIKulVV6hamtE1o.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfUixnZQsMqrUNDZmLmY4S3URL.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qdbGHG6ZQIb3sWjITAvSxWFgCl.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOYWinDBzAnKNTWwzHQuAfkwZU8.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2qBPEWVOWCslilg2M02B8lCfb9.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdukWBjzcnPQGnzrEqYc2nrbMNp.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs3zldGs3dkE9DbBvunjtFjLldO.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pDfHBbNy61U4k5GCOPH6UQQPOn.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PBLc0i6hZy6Csd77X2YHACVig1.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fts5tfKJ5zsvHbu4YRbN5fIhcnj.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9ZKBDtNGBnos5NKhkpCDHpYR7h.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsPZOMxD3iwIqBO48dDo8kUb0xR.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFjE5mWEO9PO6fglN0eVSMCJs25.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E21
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bmKDu0MnPrUny0Wla3vN7GNF24.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E22
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bekfy4Rl25MM7Hh7cOLu63G1gt3.jpg" group-title="♐ Star+ ✅",Chicago P.D. S03 E23
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbhrCPtpuahSkLeEazXHUOIqLUy.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qF2BeBB3ZGIRC8LBfufGKP5xoL.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Ck8Mjiqgj6U8CtNR1JtSHZX1M.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68nytHPiHxDdno7pLvWjatcZGJB.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Z7D9FyZFgiIKNQZ9HtLmwBojiA.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTxIXbM9La0fo7Lh7T46rqvLl7E.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EwW5Z1UeI9dt6ghI0zmfDOD7i6.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pc9JWRugRckkQnPbuwiCdMvXQkX.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rjgNoEXQq6Rgsjkq9noiDozeQX.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytysw9AzLuRX4Vpb4YUewRHXHBe.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mrKxx14xWnILuRsibdrcZFVoSB.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/C08wOIVi2aEkPvriNVw1JZiiWp.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO6rYtP7R1WU4dy5ZD5AwqpxNxl.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCCVD4xnnqfkOFvWDGfNcobMlG.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9A5NngDLalnBClupImdW9tntUr.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wd8NbYDM7gai5P6j4pm28LRdaB3.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAWEfM99eK2zSWp5Wwxq44v8ZJ5.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNUF8WAsdzGS42evW3lscyiQGoM.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL1Wn9VoNCLwU2y2GEyLR878Q5.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t1eFhSw4AstJvwyNmgG6IEW8YS.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dorJEauu8CcV7yJHCySMAXtsnUV.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E21
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/949doAt33j4vz77WC7uH5x05W4r.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E22
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ikdosIfmKmkkbb90HfZjfMA7LY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S04 E23
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAOsD64PIkLa82WmmFmY9NWuXgN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLbaWlleqPO8sYHtVESQKSi9KOt.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCIDimLbkGuhnmgdZ7k8fVSE9oM.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VSYt0Ol1J9rnrlzdn9LGkf091e.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbNGRisMn5pxJ6WpujBOaPgpWnH.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbNGRisMn5pxJ6WpujBOaPgpWnH.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMPLIAsWWmavppN1h0qN7MPODxY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehFCUhTAXNWoK89x82cey762K7O.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FwOmdKsgWN6W7C1MViggr7mXae.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2nAtoDritp0B9RbTwiuq0DTLvf.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85Dy1awLCEIm0IyDZpx2dkb8yIF.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5E6ad8jWv2DllhtNzNm6VFRpak.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viGpFCDfQuLQmvbZFc8udItAxmK.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywAgWJMjRQ5KKVvoj8K9XJd2vT2.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXyb8BEvBdLL4GLl7Mgv1378Nu9.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hID4hkRRzlzwFUBwifp628eA4VG.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMff4fm805Ep2jsxY9l6dCxbfjO.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKmaFhe1VybRrDGRUYMiKtdDnEj.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71cH8okq3ZZoE7y0t28u7PdU4Ik.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaldJsPm8LhQDJ8QUAw5OZpBhiY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTEzp5NTy2j6cctqnw8RCIcVxyy.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E21
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGJaSExUVU4FKfjYtPSqcF6K6ea.jpg" group-title="♐ Star+ ✅",Chicago P.D. S05 E22
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhlCdEyOORvWwalKK6lczzJk5Cn.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHTGIY3gjuQGuMmtiad8Dan9yRk.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ac5Q8p3ZT2LLRjiukCiqSocUah.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iwJMJp6godlfN6y8mZmXYeKi9W.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6Fj4lt105FTmkwKmCVhmVJUTn8.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLiJEHV6PyWxdXqP7TsCBsLfSp1.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJl9AyeNvxqvEfYic3iDpX8Z0ec.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTNvsm1uZeME05d0aBRv8MXGJN6.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BiP43GVDbbgmq9laZBr6EriN0S.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y17ir3v9q3vvgToVrilehzU5XPN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o07fpjI41i14lF9dUtn2qJDuR5b.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zA7vvGhwWuR3fTlLhqTQB1xJXop.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h4v9ovuk9hKP3HIbEaSwKiEhJh.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQm0ArKziDzPuyOsZn5FAjz5dhA.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcxbLR2tLTben5hFzbqJBGkwSL7.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfEL2eVjT8IqVbi1A9ZsBtnlA28.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBU27W3yACPvJcHlRx2gVzz1oUY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqI0dTGgtYz3U2aKltZovxe5WlN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMC3mcE9KRj3uSWRfPeyfyeJ7a3.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqO4ff0JekVkfIY6UV8tOZhLmPa.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfdp4VbCOtCFW6YBe4VmapBiPLK.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E21
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgalHR8AN4DRwTYQYjTVCqQ0rGL.jpg" group-title="♐ Star+ ✅",Chicago P.D. S06 E22
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flbRPD09SjrsJSMeF1HShQCmJTz.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulaqINENEUbnn7fAG7FheEmUsLq.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiIvzFRVHiPJPeQ7y9zbYeQbUum.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jod2jXeWjVV7KHmyhlVfuj3pg8f.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKGoqyaMpjsyNIVahObKJsL8cQq.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvTyVQ6c8mbr0V3SP7FYwcnaSRw.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v9qi2pC8BFCfN7aK3tM9s2eh5C.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4fO65R8K5Uujx9tgPrLnuvOb0n.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3u0CJNKhQXr8fbl4vdmaBnRkTD.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLUm1Gw9Qf0U6XAxLe4L2jexHYm.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXvqYdhH4VL6eYGnWt1H8qo9NaY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aCKJNrZCnY1JyXkEx4u8CMyw0E.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0liCAjuYla5F6sSkXTF0e5NgS8.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OAkVCgkpQifQCaKVYiaqShRevE.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Afu9MI635E2L3OlYvLQMvSKR3Zd.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVuRvOTQ3w7GTCiAR2dJSXUekPR.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdmJojuo8G3Hagvmzx6KJ9FVal0.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYvoBreLqqoNWOUpGUa9Tomcfsn.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVkiF33tXzCeBk6TtSaHR30OvsS.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTbGVL4Pzg8qoMpFFuVosJqpE2X.jpg" group-title="♐ Star+ ✅",Chicago P.D. S07 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwmQgiv9BkOeI7DBfhrb3eU2Z1I.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxqTcqMaauVc1GDne5y4pAAEzyG.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab89gWgwiizV21zaNEeSs6YtP25.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEJoWlSYyAOXpE0MyEPeMpivyV.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gj8A7RSmIXPLbf39yQy5u9zW32.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0qhjuSb2cTP38lgtH04Gr8xKPc.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7Y4IR1Gnla68u9A978OSK9UG3S.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GbsnGCkIX6HBSlwJuKTBDq8eXM.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDe6ZEEJyTVxuHSeB2rJvJy8OZK.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpDyiOhYrAiY8Eks2zlpxXGtSll.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpML5YfSTQ3jyJI2X9cXEMEKvEr.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g57LzoKCcMqI5ivUNN98c63MfKd.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Erh38K2upvqpLGBuwhaoAjurTU.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rucicja27D9DlcpWk1qTbDDFRjm.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIk6kG99OMkbNVY3f6iT2UgeI7Z.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YF6igKJn1YGQodev0jfOwfPmxv.jpg" group-title="♐ Star+ ✅",Chicago P.D. S08 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVP3sCKOZ8FuSC2LLAveQu2zNLw.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVvLxEqcmvOGCLEde5eH0uXTymw.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcs4M6WwNcDUiyXXQPfzJs3yolC.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8tpzL5ByihiG5TfFkoCva8oeTo.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxus5LV6slyqlnIssBQagh2MFmY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymqVSpS4mowd9rxvCsEzxh8HtNu.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udI1hoxzCTkrmXxqE2kJMU58ifS.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PVugQ3ibDVydVH25pgWxYKmotg.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKRjiafOsLXZ8qCauA3Yqc00195.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uA8Xf8UnQyVnyt771ggDkQr1zq.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R7sJbD9qe8qyzy4HIfbuDVVD6a.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHx6tNE7ptWKsQMqBvPgfW5rrPT.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nr2goYy8z2NufsW08VBQgS0onZm.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tbD9VUOoqfnFkl5t1XoEvGNyVN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TwWzmY3jSMYnNhJgeNgNrDPwAD.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrNv8NehdgapXwB8Qwy8jsAUKIq.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9aYnAK7T3zr7baFibEgiQpL7FU.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyGTX5ep3ltijzALmlV17bKTBjF.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wqQ5fpbPSllQQCbZTyCTGTpU9d.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VE9VkynErbMWKLiyUMpmODg7sE.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLp8vfSOpjdl9r41jalDGFulZDx.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E21
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qy1EcAmphbLxb2FsHfuoFC5tYAW.jpg" group-title="♐ Star+ ✅",Chicago P.D. S09 E22
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl4AHeGZ3M8DnlAoDgMffUHA4yU.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E01
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w52QQfcKcFEoWVGPKhYVfP6OMN2.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E02
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIHIrjKFJynJNidD7rMIqJEBzza.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E03
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtjVxilOOzBeJ4SvikAAR3CwfHY.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E04
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2xxDUhHpN3NxRpMabaUyqDwmJo.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E05
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98YxzBAYPxTfzfjVy1jKZ4NX8uW.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E06
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTN1DfIGwUl5hxHBseCypg1wxSK.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E07
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNWUBa26AGXfze683ZrHALryFgt.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E08
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVc32q0RprjRDe3giFEFiA6RbmD.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E09
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVOyNeAjcMTjxvNkN6ZzNSCb5Ar.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E10
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zccKSOivzoHHGivNouDROdfQxKj.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E11
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUFZ5Fw0utC7E0pJ2t0IpJBFQlg.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E12
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QjfRko1qNYK9RLMQv7hgYhIefE.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E13
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjoKp8gCH89bURv8UZBGiYF5weN.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E14
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM3rKdHeWjie4Q2TqJtWOE3tmf6.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E15
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgNGp1GjSKDsXfe5Zx9CiyuK9WS.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E16
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2W4LxHnkdmb9grVCDWbg1wA0QG7.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E17
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMNZhjveYVoNLVXDyrrg6Wtp2Z6.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E18
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvh0qxe8712N0RST2xoYlnFN2Lu.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E19
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G13EeclcOsCTSJh8Ax7I9nkxeS.jpg" group-title="♐ Star+ ✅",Chicago P.D. S10 E20
+http://104.37.187.234:8080/series/XB21cLxBT4/kdeojk2vDM/19567.mkv
